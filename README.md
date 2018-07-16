@@ -1,5 +1,5 @@
 ## How does Django work 
 
-explore django source code
+#### explore django source code
 
-- version:2.0.7
+- Django version: 2.0.7
